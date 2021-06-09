@@ -21,7 +21,7 @@ cd <folder-name>
 
 - Clone this repository:
 ```
-
+  https://github.com/kchiran/motion_surf
 ```
 
 - Install all the project's dependencies:
