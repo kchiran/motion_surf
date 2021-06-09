@@ -1,4 +1,4 @@
-# Hooks Movie App
+# Motion Surf Movie App
 This is the demo application using React Hooks!!!
 
 
@@ -10,6 +10,10 @@ These instructions should get you a copy of the project up and running on your l
 Things you need to get started:
 - A recent version of Node running on your machine (8.0 or higher), check this [link](https://nodejs.org/en/download/) to download it.
 - A cool text editor, I recommend using either [VSCode](https://code.visualstudio.com/download) or [Atom(with the nuclide plugin)](https://nuclide.io/docs/editor/setup/)
+- You need axios module if not present. 
+```
+npm install axios --save
+```
 
 # Installing
 To get the project running, follow these steps:
